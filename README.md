@@ -1,6 +1,5 @@
-Idris
-======
-Trying to complete 125 projects from in Racket
+# Cyber
+Trying to complete 125 projects from in Cyber
 
 Numbers
 ---------
